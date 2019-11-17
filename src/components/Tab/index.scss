@@ -1,0 +1,16 @@
+@import '../../assets/style/theme.scss';
+
+.tab-box{
+  height: .505rem;
+  width: 100%;
+  background: $theme;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  span{
+    color: white;
+    font-size: .18rem;
+  }
+    
+}
