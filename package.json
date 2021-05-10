@@ -40,7 +40,7 @@
   "devDependencies": {
     "antd-mobile": "^2.3.1",
     "customize-cra": "^0.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react-app-rewired": "^2.1.5"
   }
 }
